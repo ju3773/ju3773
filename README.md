@@ -1,4 +1,4 @@
-## Hi there 👋
+## Boas vindas ao meu perfil! :heart
 
 <!--
 **ju3773/ju3773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
